@@ -43,7 +43,7 @@ const createData = (mobileNumber) => {
       },
       fiTypes: ["DEPOSIT"],
     },
-    redirectUrl: "<YOUR_REDIRECT_URL>",
+    redirectUrl: "https://setu.co/",
   });
 
   return data;
