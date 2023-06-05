@@ -1,5 +1,5 @@
 XPENSER
-Finanace Management App
+Finanace Management App (Android/IOS)
 ## Useful links
 
 * [Homepage](https://setu.co/data/account-aggregator)
